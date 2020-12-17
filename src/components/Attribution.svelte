@@ -40,6 +40,7 @@
 
     .attribution__img {
         width: 7rem;
+        height: 7rem;
         border-radius: 50%;
         box-shadow: 4px 8px 8px -2px rgba(0, 0, 0, .2);
         cursor: pointer;
